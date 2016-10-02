@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "799995288765",
+    "firebase_url": "https://igwy-16958.firebaseio.com",
+    "project_id": "igwy-16958",
+    "storage_bucket": "igwy-16958.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799995288765:android:5e301ee4980ea73c",
+        "android_client_info": {
+          "package_name": "lucky.igwy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799995288765-gobcukg9a3774dr7889jsfkf3bedr12j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5fzoB1vhmykYpWjJpn34UmKVgiYAGZaM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799995288765:android:e2f16b33adf4b5fe",
+        "android_client_info": {
+          "package_name": "com.example.invaderlucky.illgowithyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799995288765-gobcukg9a3774dr7889jsfkf3bedr12j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5fzoB1vhmykYpWjJpn34UmKVgiYAGZaM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
